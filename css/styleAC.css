@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+</style>
+body
+{
+   font-family:times,arial,serif;
+   color:black;
+   
+   
+}
+
+.full
+{
+  background-image:url("../images/mb-a.jpg");
+   background-position:center;
+   background-repeat:norepeat;
+   background-size:cover;
+}
+p
+{
+ color:black;
+}
+header
+{
+   color:black;
+   margin:0; 
+   padding:0;
+   overflow:hidden;
+
+ }
+
+header img
+{
+  float:left;
+  padding:10px 10px;
+  
+}
+
+ header h1 
+{
+font-size:2em;
+margin:0;
+font-family: 'Playfair Display', serif;
+
+}
+
+.nav ul
+{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+overflow:hidden;
+
+}
+.nav li 
+{
+ float:left;
+}
+.nav li a
+{
+text-decoration:none;
+padding:10px 25px;
+display:block;
+color:black;
+}
+
+.nav li a:hover
+{
+ background-color:teal;
+ color:white;
+}
+
+.content
+{
+  padding:0px 10px;
+  border:2px solid #FA8072;
+  overflow:hidden;
+  color:white;
+
+  
+}
+
+.content h3
+{
+  margin:5px 0 0 0;
+  font-size:1.3em;
+  color:black;
+}
+.footer 
+{
+ padding:5px 0 0 5px;
+}
+div.content img 
+{
+ float:right;
+
+}
+
+.content h4
+{
+font-size:1.3em;
+color:black;
+
+}
+div.content img 
+{
+ float:right;
+ padding:0 5px 10px 0;
+}
+
+.content img:hover 
+{
+border-radius:80px;
+}
+header img:hover
+{
+border-radius:80px;
+
+}
+
+
+
+
